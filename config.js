@@ -27,7 +27,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "最最最心爱的小素珍": "./imgs/xiaokeai.png",
+        "最最最心爱的小素珍": "./imgs/0.jpg",
         "今天是你的生日": "./imgs/birthday.jpg",
 		"这是我们在一起的": "./imgs/2.jpg",
 		"今天是我们认识的第290天": "./imgs/5.jpg",
